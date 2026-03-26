@@ -53,13 +53,6 @@ Based in India, building production cloud platforms for US clients.
 - Reduced infrastructure costs by 25% and deployment times by 40%
 - Maintained 99.9%+ uptime across distributed systems
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shivajichaprana&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajichaprana&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivajichaprana/)
