@@ -49,6 +49,7 @@ Based in India, building production cloud platforms for US clients.
 - 🔧 **[aws-terraform-modules](https://github.com/shivajichaprana/aws-terraform-modules)** — Production-grade, reusable Terraform modules for AWS (VPC, EKS, RDS, S3) with CI validation
 - 🚀 **[k8s-deployment-pipeline](https://github.com/shivajichaprana/k8s-deployment-pipeline)** — End-to-end CI/CD: GitHub Actions → Docker → GHCR → ArgoCD GitOps with Helm, Trivy scanning, multi-env promotion
 - 📊 **[observability-stack](https://github.com/shivajichaprana/observability-stack)** — Prometheus + Grafana + AlertManager + Loki with SLO burn-rate alerting, recording rules, and pre-built dashboards
+- 🛡️ **[aws-security-auditor](https://github.com/shivajichaprana/aws-security-auditor)** — Python CLI that scans AWS accounts for security misconfigurations across S3, IAM, EC2, RDS, CloudTrail with CIS Benchmark mapping
 - ☕ **[spring-boot-expense-tracker](https://github.com/shivajichaprana/spring-boot-expense-tracker)** — Full-featured REST API with Spring Boot, JPA, JWT auth, and Redis caching
 
 ## Key Highlights
