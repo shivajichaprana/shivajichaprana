@@ -39,11 +39,16 @@ Based in India, building production cloud platforms for US clients.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## Currently Building
+## Open Source Tools
+
+- 💰 **[kloudkut](https://github.com/shivajichaprana/kloudkut)** — AWS cost optimization CLI that scans 45+ services, identifies idle resources, and generates savings reports. Multi-account support, parallel scanning, smart caching
+- 🔐 **[openvpn-manager](https://github.com/shivajichaprana/openvpn-manager)** — Hardened OpenVPN server installer with 24 management operations — ECC/AES-256-GCM encryption, certificate lifecycle, tls-crypt, audit logging. One script, zero to production
+
+## Featured Projects
 
 - 🔧 **[aws-terraform-modules](https://github.com/shivajichaprana/aws-terraform-modules)** — Production-grade, reusable Terraform modules for AWS (VPC, EKS, RDS, S3) with CI validation
-- 🚀 **[k8s-deployment-pipeline](https://github.com/shivajichaprana/k8s-deployment-pipeline)** — End-to-end CI/CD: GitHub Actions → Docker → EKS with blue-green deployments
-- 📊 **[observability-stack](https://github.com/shivajichaprana/observability-stack)** — Complete monitoring: Prometheus + Grafana + AlertManager + Loki, deployable via Docker Compose and Helm
+- 🚀 **[k8s-deployment-pipeline](https://github.com/shivajichaprana/k8s-deployment-pipeline)** — End-to-end CI/CD: GitHub Actions → Docker → GHCR → ArgoCD GitOps with Helm, Trivy scanning, multi-env promotion
+- 📊 **[observability-stack](https://github.com/shivajichaprana/observability-stack)** — Prometheus + Grafana + AlertManager + Loki with SLO burn-rate alerting, recording rules, and pre-built dashboards
 - ☕ **[spring-boot-expense-tracker](https://github.com/shivajichaprana/spring-boot-expense-tracker)** — Full-featured REST API with Spring Boot, JPA, JWT auth, and Redis caching
 
 ## Key Highlights
