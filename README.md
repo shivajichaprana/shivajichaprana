@@ -1,65 +1,80 @@
-# Platform Engineer who builds the infrastructure that keeps applications alive at scale.
+<h1 align="center">Hi, I'm Shivaji Chaprana 👋</h1>
 
-6+ years designing AWS architectures, automating deployments with Terraform and Kubernetes, and building CI/CD pipelines that ship code safely. AWS Solutions Architect Professional certified. Currently expanding into backend application development — because the best platform engineers understand the code running on their platforms.
+<p align="center">
+  <em>DevOps & Platform Engineer — building production-grade infrastructure tooling</em>
+</p>
 
-Based in India, building production cloud platforms for US clients.
+<p align="center">
+  <a href="https://github.com/shivajichaprana"><img src="https://img.shields.io/github/followers/shivajichaprana?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://linkedin.com/in/shivajichaprana"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-## What I Build
+---
 
-- **Production infrastructure** — reusable Terraform modules for VPC, EKS, RDS, and multi-region AWS architectures
-- **Deployment pipelines** — end-to-end CI/CD with GitHub Actions, Docker, and Kubernetes (blue-green, canary)
-- **Observability systems** — Prometheus, Grafana, AlertManager with custom dashboards and SLO tracking
-- **Backend APIs** — learning to build what runs on the platforms I design (Java, Spring Boot)
+## 🔧 What I'm Building
 
-## Tech Stack
+I'm currently working on **5 professional DevOps & Platform Engineering projects** — shipping daily:
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+| # | Project | Description | Status |
+|---|---------|-------------|--------|
+| 1 | [aws-landing-zone](https://github.com/shivajichaprana/aws-landing-zone) | Multi-account AWS setup with Organizations, SCPs, SSO, centralized logging | *(coming Day 2)* |
+| 2 | [policy-as-code-framework](https://github.com/shivajichaprana/policy-as-code-framework) | OPA/Conftest policies for Terraform, K8s, and Docker — blocks non-compliant deployments in CI | *(coming Day 8)* |
+| 3 | [chaos-engineering-toolkit](https://github.com/shivajichaprana/chaos-engineering-toolkit) | K8s chaos experiments: pod failure, network latency, node drain — with validation and rollback | *(coming Day 14)* |
+| 4 | [vault-secrets-manager](https://github.com/shivajichaprana/vault-secrets-manager) | HashiCorp Vault with K8s integration, auto-rotation, and Terraform-provisioned policies | *(coming Day 20)* |
+| 5 | [terraform-drift-detector](https://github.com/shivajichaprana/terraform-drift-detector) | Detects Terraform state drift on schedule, diffs planned vs actual, and sends alerts | *(coming Day 26)* |
 
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+---
 
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+## 🛠 Tech Stack
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault">
+  <img src="https://img.shields.io/badge/OPA-7D9B7D?style=for-the-badge&logo=openpolicyagent&logoColor=white" alt="OPA">
+  <img src="https://img.shields.io/badge/Rego-51A0D5?style=for-the-badge" alt="Rego">
+  <img src="https://img.shields.io/badge/BATS-4E9A06?style=for-the-badge" alt="BATS">
+  <img src="https://img.shields.io/badge/Kind-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kind">
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+</p>
 
-## Open Source Tools
+---
 
-- 💰 **[kloudkut](https://github.com/shivajichaprana/kloudkut)** — AWS cost optimization CLI that scans 45+ services, identifies idle resources, and generates savings reports. Multi-account support, parallel scanning, smart caching
-- 🔐 **[openvpn-manager](https://github.com/shivajichaprana/openvpn-manager)** — Hardened OpenVPN server installer with 24 management operations — ECC/AES-256-GCM encryption, certificate lifecycle, tls-crypt, audit logging. One script, zero to production
+## 📊 GitHub Stats
 
-## Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivajichaprana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajichaprana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+</p>
 
-- 🔧 **[aws-terraform-modules](https://github.com/shivajichaprana/aws-terraform-modules)** — Production-grade, reusable Terraform modules for AWS (VPC, EKS, RDS, S3) with CI validation
-- 🚀 **[k8s-deployment-pipeline](https://github.com/shivajichaprana/k8s-deployment-pipeline)** — End-to-end CI/CD: GitHub Actions → Docker → GHCR → ArgoCD GitOps with Helm, Trivy scanning, multi-env promotion
-- 📊 **[observability-stack](https://github.com/shivajichaprana/observability-stack)** — Prometheus + Grafana + AlertManager + Loki with SLO burn-rate alerting, recording rules, and pre-built dashboards
-- 🛡️ **[aws-security-auditor](https://github.com/shivajichaprana/aws-security-auditor)** — Python CLI that scans AWS accounts for security misconfigurations across S3, IAM, EC2, RDS, CloudTrail with CIS Benchmark mapping
-- ☕ **[spring-boot-expense-tracker](https://github.com/shivajichaprana/spring-boot-expense-tracker)** — Full-featured REST API with Spring Boot, JPA, JWT auth, and Redis caching
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajichaprana&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
-## Key Highlights
+---
 
-- Built complete cloud platforms from zero for startup clients
-- Migrated 200+ servers from on-premises to AWS
-- Reduced infrastructure costs by 25% and deployment times by 40%
-- Maintained 99.9%+ uptime across distributed systems
+## 🏗 Project Roadmap (30-Day Streak)
 
-## Let's Connect
+```
+Week 1: Profile + aws-landing-zone (Organizations, SCPs, SSO, Logging, Account Vending)
+Week 2: policy-as-code-framework (Terraform, K8s, Docker policies via OPA/Conftest)
+Week 3: chaos-engineering-toolkit (Pod failure, network chaos, node drain experiments)
+Week 4: vault-secrets-manager + terraform-drift-detector (Secrets lifecycle + drift alerts)
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivajichaprana/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shivajichaprana97@gmail.com)
+---
+
+## 📫 How to Reach Me
+
+- GitHub: [@shivajichaprana](https://github.com/shivajichaprana)
+- Email: shivajichaprana97@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivajichaprana&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
