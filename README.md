@@ -43,14 +43,24 @@ Based in India, building production cloud platforms for US clients.
 
 - 💰 **[kloudkut](https://github.com/shivajichaprana/kloudkut)** — AWS cost optimization CLI that scans 45+ services, identifies idle resources, and generates savings reports. Multi-account support, parallel scanning, smart caching
 - 🔐 **[openvpn-manager](https://github.com/shivajichaprana/openvpn-manager)** — Hardened OpenVPN server installer with 24 management operations — ECC/AES-256-GCM encryption, certificate lifecycle, tls-crypt, audit logging. One script, zero to production
+- 📄 **[pdfmeta](https://github.com/shivajichaprana/pdfmeta)** — View and edit PDF metadata (Document Info + XMP) from the CLI or a local browser GUI. Batch JSON workflow, privacy scrubbing, typed and tested, built on pikepdf
 
 ## Featured Projects
 
-- 🔧 **[aws-terraform-modules](https://github.com/shivajichaprana/aws-terraform-modules)** — Production-grade, reusable Terraform modules for AWS (VPC, EKS, RDS, S3) with CI validation
-- 🚀 **[k8s-deployment-pipeline](https://github.com/shivajichaprana/k8s-deployment-pipeline)** — End-to-end CI/CD: GitHub Actions → Docker → GHCR → ArgoCD GitOps with Helm, Trivy scanning, multi-env promotion
-- 📊 **[observability-stack](https://github.com/shivajichaprana/observability-stack)** — Prometheus + Grafana + AlertManager + Loki with SLO burn-rate alerting, recording rules, and pre-built dashboards
+### AWS Platform Engineering
+- 🚢 **[aws-ecs-fargate-platform](https://github.com/shivajichaprana/aws-ecs-fargate-platform)** — Production ECS Fargate platform: reusable service modules, target-tracking autoscaling, Service Connect, CodeDeploy blue/green, native Terraform tests, and a full CI pipeline
+- ☸️ **[eks-platform-baseline](https://github.com/shivajichaprana/eks-platform-baseline)** — Production EKS baseline: Karpenter with Spot-first NodePools, ALB Controller, ExternalDNS, cert-manager, EBS CSI, and IRSA end-to-end
+- 🏗️ **[aws-landing-zone](https://github.com/shivajichaprana/aws-landing-zone)** — Multi-account landing zone: Organizations, SCP guardrails, IAM Identity Center, centralized CloudTrail, and account vending
+
+### GitOps & Developer Experience
+- 🔄 **[gitops-argocd-platform](https://github.com/shivajichaprana/gitops-argocd-platform)** — Argo CD on EKS: app-of-apps root, ApplicationSets for addons and tenants, AppProject isolation, and Argo Rollouts canary with analysis gates
+- 🧑‍💻 **[internal-developer-platform](https://github.com/shivajichaprana/internal-developer-platform)** — Backstage IDP: service catalog with ownership model, golden-path templates, TechDocs, Kubernetes plugin, and RBAC policies
+
+### Data, Serverless & Security
+- 🛰️ **[aws-data-lakehouse](https://github.com/shivajichaprana/aws-data-lakehouse)** — Firehose → S3 → Glue → Lake Formation → Athena → QuickSight, with PyDeequ data-quality gates and a Step Functions daily pipeline
+- ⚡ **[aws-serverless-patterns](https://github.com/shivajichaprana/aws-serverless-patterns)** — Eight production Step Functions + Lambda patterns: saga, fan-out, webhook ingest, idempotent processing, and human-in-the-loop approvals
 - 🛡️ **[aws-security-auditor](https://github.com/shivajichaprana/aws-security-auditor)** — Python CLI that scans AWS accounts for security misconfigurations across S3, IAM, EC2, RDS, CloudTrail with CIS Benchmark mapping
-- ☕ **[spring-boot-expense-tracker](https://github.com/shivajichaprana/spring-boot-expense-tracker)** — Full-featured REST API with Spring Boot, JPA, JWT auth, and Redis caching
+- 📊 **[aws-observability-stack](https://github.com/shivajichaprana/aws-observability-stack)** — Managed Prometheus + Grafana, OpenTelemetry Collector with X-Ray, and multi-window SLO burn-rate alerting
 
 ## Key Highlights
 
