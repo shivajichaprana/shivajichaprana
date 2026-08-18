@@ -66,7 +66,7 @@ Based in India, building production cloud platforms for US clients.
 
 - Built complete cloud platforms from zero for startup clients
 - Migrated 100+ servers from on-premises to AWS
-- - Reduced infrastructure costs by 25% and deployment times by 40%
+- Reduced infrastructure costs by 25% and deployment times by 40%
 - Maintained 99.9%+ uptime across distributed systems
 
 ## Let's Connect
